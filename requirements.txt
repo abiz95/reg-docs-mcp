@@ -1,0 +1,4 @@
+mcp==1.29.0
+sentence-transformers==5.6.1
+opensearch-py==3.2.0
+python-dotenv==1.2.2
