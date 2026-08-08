@@ -1,0 +1,16 @@
+IFRS 17 overview (placeholder summary, not an official text)
+
+IFRS 17 is the accounting standard that governs how insurance contracts are
+measured and reported. It replaced the older, more permissive IFRS 4.
+
+The default approach is the General Measurement Model (GMM). A contract's
+liability is split into the present value of future cash flows, a risk
+adjustment for the uncertainty in those cash flows, and the Contractual
+Service Margin (CSM). The CSM represents unearned future profit and is
+released into the income statement gradually, as the insurer delivers the
+coverage the policyholder paid for.
+
+Two other measurement approaches exist for specific cases: the Premium
+Allocation Approach (PAA) for short-duration contracts, and the Variable
+Fee Approach (VFA) for contracts with direct participation features, such
+as unit-linked products.

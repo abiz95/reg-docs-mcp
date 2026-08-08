@@ -1,0 +1,22 @@
+Solvency II overview (placeholder summary, not an official text)
+
+Solvency II is the prudential regime that applies to insurers and reinsurers
+operating in the UK and EU. It is built around three pillars.
+
+Pillar 1 covers quantitative requirements. Insurers must hold enough capital
+to survive extreme but plausible losses. Two thresholds matter here: the
+Solvency Capital Requirement (SCR), which is the amount of capital needed to
+withstand a 1-in-200-year shock over one year, and the Minimum Capital
+Requirement (MCR), a lower threshold below which regulatory intervention
+becomes automatic. Firms calculate the SCR either with a standard formula
+set by the regulator or, subject to approval, with their own internal
+model.
+
+Pillar 2 covers governance and risk management. Firms must run an Own Risk
+and Solvency Assessment (ORSA), which is their own forward-looking view of
+the risks they face and the capital needed to cover them, distinct from the
+Pillar 1 calculation.
+
+Pillar 3 covers disclosure. Firms publish a Solvency and Financial Condition
+Report (SFCR) annually, giving the market a public view of their solvency
+position.
